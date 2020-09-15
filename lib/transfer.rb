@@ -23,7 +23,7 @@ def execute_transaction
       sender.balance -= @amount
       receiver.balance += @amount
       self.status = "complete"
-    else 
+    
 
     end
 end
