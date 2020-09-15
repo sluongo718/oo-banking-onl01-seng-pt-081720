@@ -1,9 +1,9 @@
 class Transfer
   # your code here
   
-  attr_accessor :transfer
+  attr_accessor 
   
-  def initialize(transfer) 
+  def initialize() 
     
   end
   
