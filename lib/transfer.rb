@@ -3,8 +3,8 @@ class Transfer
   
   attr_accessor 
   
-  def initialize(status = "pending") 
-    @status = status
+  def initialize(person_1, person_2, amount) 
+    
   end
   
 end
